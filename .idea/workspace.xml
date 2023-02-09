@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53c36256-fc2d-42c9-b7d8-e704f16032b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/KeyboardListener.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeyboardListener.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Htdms0CUP3De0gsIEkvhj5Fp2E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rafmc\Desktop\BiometricKeyboard" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Enroller">
+    <configuration name="Enroller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BiometricKeyboard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Enroller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Identifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BiometricKeyboard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Identifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Verifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BiometricKeyboard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_normalization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BiometricKeyboard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_normalization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Enroller" />
+        <item itemvalue="Python.Verifier" />
+        <item itemvalue="Python.Identifier" />
+        <item itemvalue="Python.data_normalization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53c36256-fc2d-42c9-b7d8-e704f16032b4" name="Default Changelist" comment="" />
+      <created>1669108476647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669108476647</updated>
+      <workItem from="1669108483973" duration="968000" />
+      <workItem from="1669109481660" duration="188000" />
+      <workItem from="1669722841706" duration="1290000" />
+      <workItem from="1670403746109" duration="2038000" />
+      <workItem from="1670407096718" duration="1005000" />
+      <workItem from="1670409240581" duration="2860000" />
+      <workItem from="1670872125129" duration="1888000" />
+      <workItem from="1670926963252" duration="698000" />
+      <workItem from="1671008200398" duration="9065000" />
+      <workItem from="1671030002114" duration="2591000" />
+      <workItem from="1671050692326" duration="1122000" />
+      <workItem from="1671095625633" duration="2587000" />
+      <workItem from="1671098274994" duration="400000" />
+      <workItem from="1671098691885" duration="2658000" />
+      <workItem from="1671114287082" duration="1795000" />
+      <workItem from="1671122088445" duration="3883000" />
+      <workItem from="1671126031048" duration="5730000" />
+      <workItem from="1671132606568" duration="1846000" />
+      <workItem from="1671206372696" duration="5524000" />
+      <workItem from="1671408654294" duration="1736000" />
+      <workItem from="1671444659546" duration="21221000" />
+      <workItem from="1671478168022" duration="104000" />
+      <workItem from="1671631930170" duration="743000" />
+      <workItem from="1671719946640" duration="65000" />
+      <workItem from="1672997363737" duration="6904000" />
+      <workItem from="1673020270452" duration="1475000" />
+      <workItem from="1674118519115" duration="7999000" />
+      <workItem from="1674309118824" duration="4497000" />
+      <workItem from="1674462652272" duration="701000" />
+      <workItem from="1674463436139" duration="1337000" />
+      <workItem from="1674464851867" duration="94000" />
+      <workItem from="1674465463882" duration="300000" />
+      <workItem from="1674465972377" duration="415000" />
+      <workItem from="1674471393362" duration="170000" />
+      <workItem from="1674560151206" duration="245000" />
+      <workItem from="1674665558286" duration="919000" />
+      <workItem from="1674725163428" duration="690000" />
+      <workItem from="1674818299066" duration="465000" />
+      <workItem from="1674824205607" duration="806000" />
+      <workItem from="1675957365265" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="0" key="#Enroller_(1)" timestamp="1671452213702">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="351" y="0" key="#Enroller_(1)/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671452213702" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671452256026">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671452256026" />
+    <state x="389" y="192" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1671132559454">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="389" y="192" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671132559454" />
+    <state x="93" y="93" width="1095" height="487" key="DiffContextDialog" timestamp="1671471495122">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="93" y="93" width="1095" height="487" key="DiffContextDialog/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671471495122" />
+    <state width="133" height="545" key="GridCell.Tab.0.bottom" timestamp="1674818766947">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="569" height="545" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1673022310355" />
+    <state width="862" height="874" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1680.1002@1920.0.1680.1002" timestamp="1674666484991" />
+    <state width="133" height="545" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1674818766947" />
+    <state width="133" height="545" key="GridCell.Tab.0.center" timestamp="1674818766947">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="569" height="545" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1673022310355" />
+    <state width="862" height="874" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1680.1002@1920.0.1680.1002" timestamp="1674666484991" />
+    <state width="133" height="545" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1674818766947" />
+    <state width="133" height="545" key="GridCell.Tab.0.left" timestamp="1674818766946">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="569" height="545" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1673022310355" />
+    <state width="862" height="874" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1680.1002@1920.0.1680.1002" timestamp="1674666484991" />
+    <state width="133" height="545" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1674818766946" />
+    <state width="133" height="545" key="GridCell.Tab.0.right" timestamp="1674818766947">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="569" height="545" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1673022310355" />
+    <state width="862" height="874" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1680.1002@1920.0.1680.1002" timestamp="1674666484991" />
+    <state width="133" height="545" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1674818766947" />
+    <state width="1237" height="2" key="GridCell.Tab.1.bottom" timestamp="1671473333569">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.1.bottom/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671473333569" />
+    <state width="1237" height="2" key="GridCell.Tab.1.center" timestamp="1671473333568">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.1.center/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671473333568" />
+    <state width="1237" height="2" key="GridCell.Tab.1.left" timestamp="1671473333568">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.1.left/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671473333568" />
+    <state width="1237" height="2" key="GridCell.Tab.1.right" timestamp="1671473333568">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.1.right/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671473333568" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1671098641289">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.672@0.0.1280.672" timestamp="1671098641289" />
+    <state x="362" y="78" width="540" height="524" key="StructurePopup" timestamp="1671471422741">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="362" y="78" width="540" height="524" key="StructurePopup/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671471422741" />
+    <state x="371" y="142" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1671471719599">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="371" y="142" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671471719599" />
+    <state x="305" y="0" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport" timestamp="1671471885731">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="305" y="0" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671471885731" />
+    <state x="93" y="93" width="1095" height="487" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1671132588996">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="93" y="93" width="1095" height="487" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671132588996" />
+    <state x="2493" y="-10" width="1253" height="660" maximized="true" key="dock-window-1" timestamp="1671207758324">
+      <screen x="1920" y="0" width="1680" height="1002" />
+    </state>
+    <state x="2493" y="-10" width="1253" height="660" maximized="true" key="dock-window-1/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671207758324" />
+    <state x="2478" y="-18" width="813" height="469" key="dock-window-2" timestamp="1671211202155">
+      <screen x="1920" y="0" width="1680" height="1002" />
+    </state>
+    <state x="2478" y="-18" width="813" height="469" key="dock-window-2/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1671211202155" />
+    <state x="206" y="0" width="838" height="571" key="editAsTableFormatDialogDimension" timestamp="1674463742206">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="206" y="26" width="838" height="571" key="editAsTableFormatDialogDimension/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1672998838952" />
+    <state x="206" y="0" key="editAsTableFormatDialogDimension/0.0.1280.672@0.0.1280.672" timestamp="1674463742206" />
+    <state x="347" y="69" width="587" height="534" key="find.popup" timestamp="1674818509767">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="347" y="69" width="587" height="534" key="find.popup/0.0.1280.672@0.0.1280.672" timestamp="1674818509767" />
+    <state x="303" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1674129120248">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="303" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1280.672/1920.0.1680.1002@0.0.1280.672" timestamp="1672998920290" />
+    <state x="2318" y="0" width="882" height="1000" key="search.everywhere.popup/0.0.1280.672/1920.0.1680.1002@1920.0.1680.1002" timestamp="1671409040207" />
+    <state x="303" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1280.672@0.0.1280.672" timestamp="1674129120248" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BiometricKeyboard$Identifier.coverage" NAME="Identifier Coverage Results" MODIFIED="1674818439735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BiometricKeyboard$Verifier.coverage" NAME="Verifier Coverage Results" MODIFIED="1674818475810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BiometricKeyboard$Enroller.coverage" NAME="Enroller Coverage Results" MODIFIED="1674818664823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BiometricKeyboard$verifier.coverage" NAME="verifier Coverage Results" MODIFIED="1671010858769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BiometricKeyboard$KeyboardListener.coverage" NAME="KeyboardListener Coverage Results" MODIFIED="1671013899813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+    <SUITE FILE_PATH="coverage/BiometricKeyboard$Enroller__1_.coverage" NAME="Enroller (1) Coverage Results" MODIFIED="1671452239099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BiometricKeyboard$enrollmentClass2.coverage" NAME="enrollmentClass2 Coverage Results" MODIFIED="1671133463328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BiometricKeyboard$data_normalization.coverage" NAME="data_normalization Coverage Results" MODIFIED="1673015252520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
